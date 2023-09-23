@@ -1,0 +1,27 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Mooli&display=swap');
+
+ body{
+    font-family: 'Mooli', sans-serif;
+ } 
+header{
+    background-color: black;
+    
+}
+
+.nav-link, .navbar-brand{
+    color: yellow;
+}
+
+.nav-link:hover{
+    color: white;
+}
+
+.card{
+    width: 12.5rem;
+}
+
+.btn{
+    background-color: lightcoral;
+    box-shadow: 2px 2px 10px lightcoral;
+}
